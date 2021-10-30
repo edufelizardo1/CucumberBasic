@@ -1,15 +1,17 @@
 # Cucumber Básico
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-badge)
-![image](https://img.shields.io/github/followers/edufelizardo1?style=social)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-CucumberBasic)
+![GitHub followers](https://img.shields.io/github/followers/edufelizardo1?style=social)
 <!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
-[![made-with-java](https://img.shields.io/badge/Languager-Java-1f425f.svg)](https://www.javascript.com)
-[![Framework-Cucumber](https://img.shields.io/badge/Framework-Cucumber-1f425f.svg)](https://www.javascript.com)
-[![made-with-java](https://img.shields.io/badge/Framework-JUnit-1f425f.svg)](https://www.javascript.com)
+[![made-with-java](https://img.shields.io/badge/Languager-Java-1f425f.svg)](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html)
+[![made-with-java](https://img.shields.io/badge/framework-Gherkin-1f425f.svg)](https://cucumber.io/docs/gherkin/)
+[![Framework-Cucumber](https://img.shields.io/badge/framework-Cucumber-1f425f.svg)](https://cucumber.io/)
+[![made-with-java](https://img.shields.io/badge/framework-JUnit-1f425f.svg)](https://junit.org/junit4/)
 <!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
-[![made-with-java](https://img.shields.io/badge/ide-Intellij-1f425f.svg)](https://www.javascript.com)
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
-[![Generic badge](https://img.shields.io/badge/Build-Final-<COLOR>.svg)](https://shields.io/)
+[![made-with-java](https://img.shields.io/badge/ide-Intellij-1f425f.svg)](https://www.jetbrains.com/)
+[![GitHub license](https://img.shields.io/github/license/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/blob/main/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/network)
+[![GitHub stars](https://img.shields.io/github/stars/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/stargazers)
+[![Generic badge](https://img.shields.io/static/v1?label=build&message=success&color=<COLOR>)]()
 
 
 
