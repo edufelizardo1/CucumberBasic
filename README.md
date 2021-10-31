@@ -2,7 +2,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=edufelizardo1.visitor-CucumberBasic)
 ![GitHub followers](https://img.shields.io/github/followers/edufelizardo1?style=social)
 <!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
-[![made-with-java](https://img.shields.io/badge/Languager-Java-1f425f.svg)](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html)
+[![made-with-java](https://img.shields.io/badge/Language-Java-1f425f.svg)](https://www.oracle.com/br/java/technologies/javase-jdk8-doc-downloads.html)
 [![made-with-java](https://img.shields.io/badge/framework-Gherkin-1f425f.svg)](https://cucumber.io/docs/gherkin/)
 [![Framework-Cucumber](https://img.shields.io/badge/framework-Cucumber-1f425f.svg)](https://cucumber.io/)
 [![made-with-java](https://img.shields.io/badge/framework-JUnit-1f425f.svg)](https://junit.org/junit4/)
@@ -19,7 +19,7 @@
 * Utilizando o BDD e TDD para construir os testes
 
 ### Configuração básica
-1. Pom.xml
+1. Pom.xml: dependências
 ~~~
 <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
         <dependency>
@@ -49,7 +49,7 @@
 ~~~
 2. Configurando a classe Hook ou Runner
 * Não pode ser esquecido de fazer configuração
-* Em ***figure = "Aqui coloca o endereço da fiature ou mais"*** 
+* Em ***figure = "Caminho da fiature"*** 
 #### Exemplo:
 ~~~
 @RunWith(Cucumber.class)
@@ -86,7 +86,7 @@ Scenario: Login as correct username and password
       | tester   | qa            |
 ~~~
 
-*** São testes Simples que procuram entender a funcionalidade da ferramenta ***Cucumber***. Também tem como ituíto otimizar 
+São testes Simples que procuram entender a funcionalidade da ferramenta ***Cucumber***. Também tem como ituíto otimizar 
 os tempos de testes, principalmente os unitários, e de que forma pensei nisto. A minha necessidade de contribuir para 
 com meu time de desnvolvimento, fez com que eu me enteressasse em estudar esta ferramenta, para pode unir as técncicas 
 de desevolvimento ágil, ***Behaviour Driven Development (ou BDD)*** e o ***Test Driven Development (TDD)***
