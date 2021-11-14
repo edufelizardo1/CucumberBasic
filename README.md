@@ -6,8 +6,8 @@
 [![made-with-java](https://img.shields.io/badge/framework-Gherkin-1f425f.svg)](https://cucumber.io/docs/gherkin/)
 [![Framework-Cucumber](https://img.shields.io/badge/framework-Cucumber-1f425f.svg)](https://cucumber.io/)
 [![made-with-java](https://img.shields.io/badge/framework-JUnit-1f425f.svg)](https://junit.org/junit4/)
-<!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
 [![made-with-java](https://img.shields.io/badge/ide-Intellij-1f425f.svg)](https://www.jetbrains.com/)
+<!-- ![Profile views](https://gpvc.arturio.dev/edufelizardo1) -->
 [![GitHub license](https://img.shields.io/github/license/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/blob/main/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/network)
 [![GitHub stars](https://img.shields.io/github/stars/edufelizardo1/CucumberBasic)](https://github.com/edufelizardo1/CucumberBasic/stargazers)
